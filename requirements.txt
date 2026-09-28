@@ -1,0 +1,12 @@
+customtkinter
+Pillow
+opencv-python
+ultralytics
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+google-genai
+MIDIUtil
+music21
